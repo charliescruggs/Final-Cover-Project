@@ -1,0 +1,34 @@
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\FinalCoverDemo.csproj.AssemblyReference.cache
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\FinalCoverDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\MainWindow.baml
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\MainWindow.g.cs
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\App.g.cs
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\YouTube Demo_MarkupCompile.cache
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\YouTube Demo.g.resources
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\YouTube_Demo.Properties.Resources.resources
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\FinalCoverDemo.csproj.GenerateResource.cache
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\FinalCoverDemo.csproj.CoreCompileInputs.cache
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\YouTube Demo.exe
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\YouTube Demo.pdb
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\YouTube Demo.exe.config
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\YouTube Demo.exe
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\YouTube Demo.pdb
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\charlie\source\repos\YouTube Demo - Copy\YouTube Demo\obj\Debug\FinalCoverDemo.csproj.CopyComplete
