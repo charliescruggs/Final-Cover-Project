@@ -13,8 +13,6 @@ How to use WPF application:
 
 Resources used for this project:
 
-Resources used to create this project:
-
 1. A series of WPF tutorials on Youtube : https://www.youtube.com/@ContinuouslyBuilding
 
 2. https://www.youtube.com/watch?v=Bd0KUMjHzI0
