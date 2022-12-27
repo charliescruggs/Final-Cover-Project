@@ -8,7 +8,7 @@ How to use controls in WPF application:
 
 Resources used for this project:
 
-Many resources were used that I found online to helo me with this project. Here are the links to my sources:
+Resources used to create this project:
 
 1. A series of WPF tutorials on Youtube : https://www.youtube.com/@ContinuouslyBuilding
 
