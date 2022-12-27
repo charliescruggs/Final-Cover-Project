@@ -1,10 +1,15 @@
 # Final-Cover-Project
 An image editor made with WPF
 
-How to use controls in WPF application:
+How to use WPF application:
 
-1. Double click to change color of rectangle
-2. Triple click to remove Rectangle
+1. Upload an image: Button
+2. **Draw Rectangle : Left Click + Drag Cursor**
+3. **Move Rectangle: Left Click + Drag Cursor**
+4. **Changle Color: Select color from pallete, then Double click any rectangle**
+**5. Triple click to remove Rectangle**
+6. Reset/clear Drawing canvas: Button
+7. Save Image Canvas: Button
 
 Resources used for this project:
 
