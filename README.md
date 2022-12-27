@@ -1,6 +1,11 @@
 # Final-Cover-Project
 An image editor made with WPF
 
+How to use:
+
+1. Double click to change color of rectangle
+2. Triple click to remove Rectangle
+
 Resources used for this project:
 
 Many resources were used that I found online to helo me with this project. Here are the links to my sources:
