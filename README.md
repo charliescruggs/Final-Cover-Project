@@ -7,7 +7,7 @@ How to use WPF application:
 2. **Draw Rectangle : Left Click + Drag Cursor**
 3. **Move Rectangle: Left Click + Drag Cursor**
 4. **Changle Color: Select color from pallete, then Double click any rectangle**
-**5. Triple click to remove Rectangle**
+5. **Triple click to remove Rectangle**
 6. Reset/clear Drawing canvas: Button
 7. Save Image Canvas: Button
 
